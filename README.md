@@ -8,11 +8,9 @@ In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.
 Is compleet.
 
 ### UC05 Product op boodschappenlijst plaatsen:   
-- `GetAvailableProducts()`  
-	De header van de functie bestaat maar de inhoud niet.  
-	Zorg dat je een lijst maakt met de beschikbare producten (dit zijn producten waarvan nog voorraad bestaat en die niet al op de boodschappenlijst staat).  
-- `AddProduct()`   
-	Zorg dat het gekozen beschikbare product op de boodschappenlijst komt (door middel van de GroceryListItemsService).  
+Is compleet. Bevat: 
+- `GetAvailableProducts()`    
+- `AddProduct()`
 
 ### UC06 Inloggen  
 Een collega is ziek maar heeft al een deel van de inlogfunctionaliteit gemaakt.  
